@@ -1,0 +1,1 @@
+# Középszintű informatika érettségi tételek
