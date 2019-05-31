@@ -1,1 +1,3 @@
-[Jel, zaj, adat, redundancia](/1 jel, zaj, adat, redundancia)
+{% for page in site.pages %}
+[{{ page.title }}]({{ page.url }})
+{% endfor %}
