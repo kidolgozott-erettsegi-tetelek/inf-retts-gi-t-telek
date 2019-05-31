@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+title: Informatika szóbeli érettségi tételek
 plugins:
   - jekyll-relative-links
 relative_links:
