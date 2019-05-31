@@ -1,4 +1,4 @@
-# Elektrónikus levél
+# Elektronikus levél
 
 E-mail: postához hasonló levezőrendszer, "internet legfontosabb alkalmazása"
 
