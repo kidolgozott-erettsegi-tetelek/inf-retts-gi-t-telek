@@ -1,4 +1,4 @@
-# 1. tétel: jel, zaj, adat, redundancia
+# Jel, zaj, adat, redundancia
 
 Informatika az **információ**:
 

@@ -1,4 +1,4 @@
-# 2. tétel: Infótöri
+# Infótöri
 
 ## 0. Generáció: Mechanikus és elektromechanikus számítógépek (19.sz eleje -> 20.sz közepe)
 
